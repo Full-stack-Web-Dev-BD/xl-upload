@@ -1,0 +1,12 @@
+.dropzone {
+  position: relative;
+}
+.dropzone > span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 20px;
+  font-weight: 500;
+  color: gray;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "car-pal",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-detect-offline": "^2.1.2",
+    "react-dom": "^16.4.2",
+    "react-dropzone": "^11.4.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^9.0.1",
+    "read-excel-file": "^2.0.2",
+    "string_decoder": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
